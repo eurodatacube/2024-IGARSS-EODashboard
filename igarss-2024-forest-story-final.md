@@ -44,7 +44,7 @@ JAXA also offers global 25m resolution SAR mosaics and forest/non-forest maps, b
 
 This map illustrates JAXA's Global PALSAR-2/PALSAR Forest/Non-Forest Map for 2020. It shows the worldwide forest distribution from year to year, and has a 25-meter resolution. Such interannual forest distribution maps provide essential information for forest monitoring activities, including climate change countermeasures. 
 	
-To explore the time series from 2017-2020 [see the dataset on EO Dashboard](https://www.eodashboard.org/explore?search=World%3A+Forest%2Fnon-forest+map+PALSAR2&x=5065036.83109&y=-2298331.0934&z=2.64386&poi=World-FNF). <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/collections/FNF_Palsar/FNF_legend.png" width=25%>
+To explore the time series from 2017-2020 [see the dataset on EO Dashboard](https://www.eodashboard.org/explore?search=World%3A+Forest%2Fnon-forest+map+PALSAR2&x=5065036.83109&y=-2298331.0934&z=2.64386&poi=World-FNF).
 
 ## StacInfo example <!--{as="eox-stacinfo" for="https://eurodatacube.github.io/eodash-catalog/trilateral/FNF_Palsar/collection.json" featured='["description","providers","assets","links"]'  properties='["satellite","sensor","agency","extent"]' header='["title"]' tags='["tags"]' footer='["sci:citation"]' }-->
 
