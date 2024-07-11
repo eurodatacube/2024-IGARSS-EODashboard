@@ -8,3 +8,7 @@ Collection of materials used for IGARSS 2024 EODashboard workshop in Athens
 ### Additional links:
 
 - [hands-on tutorial playbook](https://docs.google.com/document/d/1SWEoPd5fn4-mXmUBod4ySgwSrcfuUB9Zlkh4p0zsUpc)
+- [Slide Deck](https://github.com/eurodatacube/2024-IGARSS-EODashboard/blob/main/EO%20Dashboard%20IGARSS%202024.pptx)
+- EO Dashboard: https://eodashboard.org
+- contact for extended access to NASA VEDA: Rajat Shinde rs0170@uah.edu
+- contact for extended or sponsored access to Euro Data Cube: Lubomir Dolezal lubomir.dolezal@eox.at 
