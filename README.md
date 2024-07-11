@@ -9,5 +9,6 @@ Collection of materials used for IGARSS 2024 EODashboard workshop in Athens
 
 - [hands-on tutorial playbook](https://docs.google.com/document/d/1SWEoPd5fn4-mXmUBod4ySgwSrcfuUB9Zlkh4p0zsUpc)
 - [Slide Deck](https://github.com/eurodatacube/2024-IGARSS-EODashboard/blob/main/EO%20Dashboard%20IGARSS%202024.pptx)
+- VEDA Notebook https://github.com/nasa-veda-workshops/ieee-grss-webinar-2024 
 - EO Dashboard: https://eodashboard.org
 
